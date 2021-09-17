@@ -11,12 +11,9 @@ In video_features.py, there are metrics of blur, noise and freeze. You can modif
  To use the code provided, run download_model.sh first
  Then add video to ./path/paper and run group_process.py
 
-[1]Renting Liu, Zhaorong Li, and Jiaya Jia. Image partial blur detection and classification. In 2008 IEEE conference on
+*[1]Renting Liu, Zhaorong Li, and Jiaya Jia. Image partial blur detection and classification. In 2008 IEEE conference on
 computer vision and pattern recognition, pages 1–8. IEEE, 2008.
-
-[2]Stephen Wolf. A no reference (nr) and reduced reference (rr)
+*[2]Stephen Wolf. A no reference (nr) and reduced reference (rr)
 metric for detecting dropped video frames. In Fourth International Workshop on Video Processing and Quality Metrics for Consumer Electronics, 2009.
-
-[3]Joon Son Chung and Andrew Zisserman. Out of time: automated lip sync in the wild. In Asian conference on computer vision, pages 251–263. Springer, 2016.
-
-[4]Soo-Whan Chung, Joon Son Chung, and Hong-Goo Kang. Perfect match: Improved cross-modal embeddings for audio-visual synchronisation. In ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 3965–3969, 2019.
+*[3]Joon Son Chung and Andrew Zisserman. Out of time: automated lip sync in the wild. In Asian conference on computer vision, pages 251–263. Springer, 2016.
+*[4]Soo-Whan Chung, Joon Son Chung, and Hong-Goo Kang. Perfect match: Improved cross-modal embeddings for audio-visual synchronisation. In ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 3965–3969, 2019.
